@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class nobleInteger {
+public class day14 {
     /*
      * Name Of The Problem :- Noble Integer
      * 
