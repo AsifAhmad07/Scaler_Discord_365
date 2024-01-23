@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class day16 {
-    /*
+    
      * Name Of The Problem :- Set Matrix Zeros
-     * 
+     * Day :- 16
      * Problem Description
  
  
@@ -48,7 +48,9 @@ Output 2:
     [1, 0, 1],
     [0, 0, 0]   ]
 
-     */
+ -------------------------------------------------------------------------------
+ 
+ 
     public class Solution {
 	public void setZeroes(ArrayList<ArrayList<Integer>> a) {
         int rowSize = a.size();
