@@ -1,9 +1,9 @@
 public class day09 {
-    /* 
+     
      * Name Of The Problem : Max Sum Contiguous Subarray
      * Day :- 9
      * Problem Description
- 
+    
  
 
 Find the contiguous subarray within an array, A of length N which has the largest sum.
@@ -44,7 +44,7 @@ The subarray [4,-1,2,1] has the maximum possible sum of 6.
 
 
 
-     */
+----------------------------------------------------------------------------------
     public class Solution {
         // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
         public int maxSubArray(final int[] A) {
