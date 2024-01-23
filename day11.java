@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class sortArrayWithSquare {
+public class day11 {
 
     /*
      * Name Of The Problem :- Sort array with squares!
