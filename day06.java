@@ -1,8 +1,8 @@
 public class day06 {
     /* 
-     * Day - 06
-     * Name Of The Problem :- Best Time to Buy and Sell Stocks I
      * 
+     * Name Of The Problem :- Best Time to Buy and Sell Stocks I
+     * Day - 06
      * Problem Description
 
 Say you have an array, A, for which the ith element is the price of a given stock on day i.
