@@ -1,9 +1,9 @@
 import java.util.Arrays;
 
 public class day14 {
-    /*
+    
      * Name Of The Problem :- Noble Integer
-     * 
+     * Day :- 14
      * Problem Description
  
  
@@ -54,7 +54,9 @@ Explanation 2:
  There is no such integer exists.
 
 
-     */
+------------------------------------------------------------------------------
+
+
     public class Solution {
     public int solve(int[] A) {
         int n = A.length;
