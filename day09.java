@@ -1,4 +1,4 @@
-public class maxSumContigousSubarray {
+public class day09 {
     /* 
      * Name Of The Problem : Max Sum Contiguous Subarray
      * Problem Description
