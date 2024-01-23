@@ -1,4 +1,4 @@
-public class bestTimeToBuyAndSellStocks {
+public class day06 {
     /* 
      * Day - 06
      * Name Of The Problem :- Best Time to Buy and Sell Stocks I
