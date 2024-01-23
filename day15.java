@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class flip {
+public class day15 {
     /*
      * Name Of The Problem :- Flip
      * 
