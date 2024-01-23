@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class setMatrixZero {
+public class day16 {
     /*
      * Name Of The Problem :- Set Matrix Zeros
      * 
