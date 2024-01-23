@@ -1,5 +1,5 @@
 public class maximumAreaOfTriangle {
-    /*
+    
      * Name Of The Problem - Maximum Area of Triangle!
      * Problem Description
 
@@ -62,7 +62,8 @@ Explanation 2:
  All cells have same color so no triangle possible so we will return 0
 
 
-     */
+    ---------------------------------------------------------------------------
+    
     int Solution::solve(vector<string> &A) {
         int rows = A.size(),cols = A[0].size();
         map<char,int> maxRow[cols],minRow[cols],maxCol,minCol;
