@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class minStepsInInfiniteGrid {
+public class day13 {
     /*
      * Name of The Problem :- Min Steps in Infinite Grid
      * Problem Description
