@@ -1,8 +1,9 @@
 import java.util.ArrayList;
 
 public class day13 {
-    /*
+    
      * Name of The Problem :- Min Steps in Infinite Grid
+     * Day :- 13
      * Problem Description
  
  
@@ -61,7 +62,7 @@ Explanation 1:
 
 
 
-     */
+---------------------------------------------------------------------------------
 
      public class Solution {
     public int coverPoints(ArrayList<Integer> A, ArrayList<Integer> B) {
