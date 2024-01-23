@@ -1,4 +1,4 @@
-public class containerWithMostWater {
+public class day18 {
 
     /*
      * Name Of The Problem :- Container With Most Water
