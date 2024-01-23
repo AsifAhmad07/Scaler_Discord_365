@@ -1,4 +1,4 @@
-public class bulbs {
+public class day05 {
     /* 
      * Day - 05
      * Name Of The Problem - Bulbs
