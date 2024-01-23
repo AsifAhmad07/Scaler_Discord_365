@@ -2,9 +2,9 @@ import java.util.Arrays;
 
 public class day11 {
 
-    /*
+    
      * Name Of The Problem :- Sort array with squares!
-     * 
+     * Day :- 11
      * Problem Description
 
 Given a sorted array A containing N integers both positive and negative.
@@ -51,7 +51,7 @@ Output 2:
 
 
      * 
-     */
+     
     public class Solution {
     public int[] solve(int[] nums) {
         for(int i=0; i<nums.length;i++){
