@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class day21 {
 
-    /*
+    
      * Name Of The Problem :- Max Non Negative SubArray
      * Day 21 
      * 
@@ -67,7 +67,7 @@ Explanation 2:
  The three sub-arrays are [10], [2, 3], [100].
  The answer is [100] as its sum is larger than the other two.
 
-     */
+---------------------------------------------------------------------------------
 
 
 
