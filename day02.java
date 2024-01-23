@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class waveArray {
+public class day02 {
     /*
      * Day - 02 
      * NameOfTheProblem - Wave Array
