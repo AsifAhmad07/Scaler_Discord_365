@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class maxNonNegativeNumber {
+public class day21 {
 
     /*
      * Name Of The Problem :- Max Non Negative SubArray
