@@ -3,9 +3,9 @@ import java.util.Collections;
 
 public class day22 {
 
-    /*
+    
      * Name Of The Problem :- Next Permutation
-     * 
+     * Day :- 22
      * Problem Description
  
  
@@ -55,7 +55,8 @@ Output 4:
 
 
 
-     */
+------------------------------------------------------------------------------
+
 
      public class Solution {
     public ArrayList<Integer> nextPermutation(ArrayList<Integer> a) {
