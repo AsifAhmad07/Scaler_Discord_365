@@ -1,4 +1,4 @@
-public class leadersInArray {
+public class day04 {
     public static void main(String[] args) {
         /*
          * Day - 04 
