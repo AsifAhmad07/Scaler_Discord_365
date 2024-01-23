@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class day18 {
 
-    /*
+    
      * Name Of The Problem :- Pascal Triangle
      * Day : 18 
      * 
@@ -42,7 +42,9 @@ Example Output
 
 
 
-     */
+  -----------------------------------------------------------------------------
+
+  
 
      public class Solution {
     public ArrayList<ArrayList<Integer>> solve(int A) {
