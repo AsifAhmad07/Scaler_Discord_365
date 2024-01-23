@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class arraySum {
+public class day03 {
     /*
      * Day - 03 
      * NameOfTheProblem  - ArraySum
