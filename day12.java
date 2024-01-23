@@ -1,5 +1,5 @@
 public class day12 {
-    /*
+    
      * Name Of The Problem :- Maximum Absolute Difference
      * Problem Description
  
@@ -39,7 +39,8 @@ The maximum value is 5, which is of f(2, 3)
 
 
 Show similar questions
-     */
+--------------------------------------------------------------------------------
+
     public class Solution {
         public int maxArr(int[] nums) {
       int mx1 = Integer.MIN_VALUE, mn1 = Integer.MAX_VALUE, mx2 = Integer.MIN_VALUE, mn2 = Integer.MAX_VALUE;
