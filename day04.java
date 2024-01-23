@@ -1,8 +1,9 @@
 public class day04 {
     public static void main(String[] args) {
         /*
-         * Day - 04 
+         * 
          * NameOfTheProblem :- Leaders In an  Array
+         * Day - 04 
          * Problem Description
 
 Given an integer array A containing N distinct integers, you have to find all the leaders in the array A.
