@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class maxDistance {
+public class day20 {
 
     /*
      * Name Of The Problem :- Max Distance
