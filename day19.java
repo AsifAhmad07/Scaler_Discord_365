@@ -1,6 +1,6 @@
 public class day19 {
 
-    /*
+    
      * Name Of The Problem :- Move Zeroes
      * 
      * Problem Description
@@ -50,7 +50,8 @@ Explanation 2:
 There is only one zero so no need of shifting.
 
 
-     */
+----------------------------------------------------------------------------
+
 
      public class Solution {
         public int[] solve(int[] nums) {
