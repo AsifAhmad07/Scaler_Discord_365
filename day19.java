@@ -1,4 +1,4 @@
-public class moveZeroes {
+public class day19 {
 
     /*
      * Name Of The Problem :- Move Zeroes
