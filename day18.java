@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class pascalTriangle {
+public class day18 {
 
     /*
      * Name Of The Problem :- Pascal Triangle
