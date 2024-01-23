@@ -1,4 +1,4 @@
-public class verifyPrime {
+public class day07 {
     /*
      * Day - 07
      * Name Of THe Problem - Verify Prime
