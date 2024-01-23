@@ -2,8 +2,9 @@ import java.util.Arrays;
 
 public class day02 {
     /*
-     * Day - 02 
+     * 
      * NameOfTheProblem - Wave Array
+     * Day - 02 
      * Problem Description
  
  
