@@ -3,8 +3,9 @@ import java.util.Collections;
 
 public class day03 {
     /*
-     * Day - 03 
+     * 
      * NameOfTheProblem  - ArraySum
+     * Day - 03 
      * Problem Description
  
  
