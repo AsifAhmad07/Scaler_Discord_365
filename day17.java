@@ -1,6 +1,6 @@
 public class day17 {
 
-    /*
+    
      * Name Of The Problem :- Container With Most Water
      * 
      * Given n non-negative integers a1, a2, ..., an,
@@ -26,7 +26,7 @@ So total area = 3 * 2 = 6
      * 
      * 
 
-     */
+  --------------------------------------------------------------------------   
 
      public class Solution {
         public int maxArea(int[] A) {
