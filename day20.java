@@ -2,8 +2,9 @@ import java.util.List;
 
 public class day20 {
 
-    /*
+    
      * Name Of The Problem :- Max Distance
+     * Day :- 20
      * Problem Description
  
  
@@ -45,7 +46,8 @@ Explanation 1:
  Maximum value occurs for pair (3, 4).
 
 
-     */
+-----------------------------------------------------------------------------
+
 
      public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
