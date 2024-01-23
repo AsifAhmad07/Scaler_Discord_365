@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
 public class day15 {
-    /*
+    
      * Name Of The Problem :- Flip
-     * 
+     * Day :- 15
      * Problem Description
  
  
@@ -73,8 +73,9 @@ Explanation 2:
 
 No operation can give us more than three 1s in final string. So, we return empty array [].
 
+-------------------------------------------------------------------------------
 
-     */
+
     public class Solution {
     public ArrayList<Integer> flip(String A) {
          ArrayList<Integer> result = new ArrayList<>();
