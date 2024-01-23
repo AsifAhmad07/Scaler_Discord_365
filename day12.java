@@ -1,4 +1,4 @@
-public class maximumAbsoluteDifference {
+public class day12 {
     /*
      * Name Of The Problem :- Maximum Absolute Difference
      * Problem Description
